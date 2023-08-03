@@ -62,14 +62,25 @@ Project Summary:
 
 - Manage users account
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]<https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_34219_localhost.jpeg>
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]<https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_132147_localhost.jpeg>
 
 - Manage orders (change status order)
 
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]
+
+
 - Respond to user feedback
 
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]<https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_34238_localhost.jpeg>
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]<https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_34252_localhost.jpeg>
+
 - Manage user reviews about products (hide/show) reviews
+
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]
+
 
 ## Authors
 
