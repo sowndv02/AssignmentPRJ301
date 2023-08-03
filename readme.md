@@ -27,6 +27,8 @@ Project Summary:
 ![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_36]<https://github.com/sowndv02/AssignmentPRJ301/blob/a063d7251361bc42eefb73d125b215478c960d8a/img/Screenshot%202023-08-03%20130028.png>
 ![Screenshot 2022-07-27 130919] <https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_122031_localhost.jpeg>
 
+![Screenshot 2022-07-27 130919] <https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_122031_localhost.jpeg>
+
 
 - Next is about the user part: can edit information, photo
 
@@ -34,11 +36,11 @@ Project Summary:
 
 - Next is about the user part: can view all order
 
-![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]<https://github.com/sowndv02/AssignmentPRJ301/blob/9322ffd9abfe7c179d4436c6b84109a8775fe20c/img/Web%20capture_3-8-2023_33246_localhost.jpeg>
 
 - Next is about the user part: can change password
 
-![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]<https://github.com/sowndv02/AssignmentPRJ301/blob/504eb76edb0c1b8ebf728f94eee747631b935a33/img/Web%20capture_3-8-2023_13441_localhost.jpeg>
 
 
 - Next is the admin page that will display the number of orders by month, total users, total revenue, total orders, total suppliers, total products, total shippers, total products sold, and total feedback from customers. And pending orders (new orders). New customers and top 5 customers with the largest usage amount
