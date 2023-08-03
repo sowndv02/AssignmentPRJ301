@@ -11,21 +11,22 @@ Project Summary:
 
 - This is HomePage
 
-![screencapture-localhost-14014-2022-07-27-13_06_45]
+![screencapture-localhost-14014-2022-07-27-13_06_45]<https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_32543_localhost.jpeg>
 
 - This is the products listing page
 
-![screencapture-localhost-14014-Movie-List-2022-07-27-13_07_00]
+![screencapture-localhost-14014-Product-List-2022-07-27-13_07_00]<https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_32627_localhost.jpeg>
 
 - This is the page showing the product details
 
-![screencapture-localhost-14014-Celebrity-List-2022-07-27-13_07_22]
+![screencapture-localhost-14014-Celebrity-List-2022-07-27-13_07_22]<https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_32720_localhost.jpeg>
 
 -Clicking on any product will take you to the detail page of that product. Users can add to the cart the product user want to buy. Users when registered to the system can checkout with products in the cart, and view information about products, such as suppliers, product reviews, and a list of products related to that genre.
 
-![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_07]
+![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_07]<https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_122031_localhost.jpeg>
 ![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_36]
-![Screenshot 2022-07-27 130919]
+![Screenshot 2022-07-27 130919] <https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_122031_localhost.jpeg>
+
 
 - Next is about the user part: can edit information, photo, and rated movie
 
