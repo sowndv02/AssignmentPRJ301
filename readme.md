@@ -24,15 +24,22 @@ Project Summary:
 -Clicking on any product will take you to the detail page of that product. Users can add to the cart the product user want to buy. Users when registered to the system can checkout with products in the cart, and view information about products, such as suppliers, product reviews, and a list of products related to that genre.
 
 ![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_07]<https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_122031_localhost.jpeg>
-![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_36]
+![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_36]<https://github.com/sowndv02/AssignmentPRJ301/blob/a063d7251361bc42eefb73d125b215478c960d8a/img/Screenshot%202023-08-03%20130028.png>
 ![Screenshot 2022-07-27 130919] <https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_122031_localhost.jpeg>
 
 
-- Next is about the user part: can edit information, photo, and rated movie
+- Next is about the user part: can edit information, photo
+
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]<https://github.com/sowndv02/AssignmentPRJ301/blob/a063d7251361bc42eefb73d125b215478c960d8a/img/Web%20capture_3-8-2023_33229_localhost.jpeg>
+
+- Next is about the user part: can view all order
 
 ![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
-![screencapture-localhost-14014-User-Favourite-2022-07-27-13_10_21]
-![screencapture-localhost-14014-User-Rated-2022-07-27-13_10_29]
+
+- Next is about the user part: can change password
+
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
+
 
 - Next is the admin page that will display the number of orders by month, total users, total revenue, total orders, total suppliers, total products, total shippers, total products sold, and total feedback from customers. And pending orders (new orders). New customers and top 5 customers with the largest usage amount
 
