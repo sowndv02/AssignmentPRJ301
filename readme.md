@@ -40,10 +40,10 @@ Project Summary:
 ![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10](https://github.com/sowndv02/AssignmentPRJ301/blob/504eb76edb0c1b8ebf728f94eee747631b935a33/img/Web%20capture_3-8-2023_13441_localhost.jpeg)
 
 - Next is user can forgot password. User can submit a request for a new password. The system will send an OTP to their email
-![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10](https://github.com/sowndv02/AssignmentPRJ301/blob/2d37df3bc4f003aa0e3d9552a1d66cfbe5b0f19d/img/Web%20capture_3-8-2023_15731_localhost.jpeg)
 
 - Next, users who do not have an account can register a new account.
-![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10](https://github.com/sowndv02/AssignmentPRJ301/blob/2d37df3bc4f003aa0e3d9552a1d66cfbe5b0f19d/img/Web%20capture_3-8-2023_1582_localhost%20(1).jpeg)
 
 - Next is the admin page that will display the number of orders by month, total users, total revenue, total orders, total suppliers, total products, total shippers, total products sold, and total feedback from customers. And pending orders (new orders). New customers and top 5 customers with the largest usage amount
 
@@ -81,7 +81,17 @@ Project Summary:
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/4ba65211fb0fb312c8ff9addc08e71cd6c5e37bb/img/Web%20capture_3-8-2023_132422_localhost.jpeg)
 
 - Admin can forgot password. Admin can submit a request for a new password. The system will send an OTP to their email
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/2d37df3bc4f003aa0e3d9552a1d66cfbe5b0f19d/img/forgot_password.png)
+
+## How to Run the Project
+
+1. Clone or download the project files from the repository.
+2. Set up a servlet container (e.g., Apache Tomcat) on your local machine.
+3. Import the project into your preferred IDE.
+4. Configure the database connection settings in the project configuration files.
+5. Run file database.sql to import data
+6. Build and deploy the project to the servlet container.
+7. Access the website using a web browser at the specified URL.
 
 ## Authors
 
