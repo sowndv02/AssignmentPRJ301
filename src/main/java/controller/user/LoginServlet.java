@@ -105,7 +105,6 @@ public class LoginServlet extends HttpServlet {
                     activeSessions++;
                 }
 
-                System.out.println(activeSessions);
                 if (remember == null) {
                     cuser.setMaxAge(0);
                     cpass.setMaxAge(0);

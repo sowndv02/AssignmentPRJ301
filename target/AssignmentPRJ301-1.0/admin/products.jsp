@@ -577,8 +577,8 @@
                                 </div>
 
 
-                                <div class="btn_search">
-                                    <button type="submit" class="search_btn">
+                                                <div style="display: grid; align-items: center; margin-bottom: 10px">
+                                    <button type="submit" class="btn btn-default">
                                         <span class="search_btn_text">Search</span>
                                     </button>
                                 </div>
@@ -614,12 +614,12 @@
                                             style="display: flex; flex-direction: column"
                                             >
                                             <button
-                                                class="btn_sample">
-                                                <a href="${pageContext.request.contextPath}/user/item?pid=${product.productID}" class="mb-0">(#${product.productID}) - ${product.productName}</a>
+                                                class="btn btn-primary ">
+                                                <a class="text-white" href="${pageContext.request.contextPath}/user/item?pid=${product.productID}" class="mb-0">(#${product.productID}) - ${product.productName}</a>
                                             </button>
                                             <button
-                                                class="btn_sample">
-                                                <a href="${pageContext.request.contextPath}/admin/updateproduct?pid=${product.productID}">Chỉnh sửa</a>
+                                                class="btn btn-info" style="margin-top: 10px">
+                                                <a class="text-white" href="${pageContext.request.contextPath}/admin/updateproduct?pid=${product.productID}">Chỉnh sửa</a>
                                             </button>
                                         </div>
                                     </div>
@@ -628,11 +628,9 @@
                         </c:forEach>
                     </div>
 
-                    <div class="load_more">
-                        <button class="button" onclick="loadMore()">
-                            <span class="box">
+                                                <div style="display: grid; align-items: center">
+                        <button class="btn btn-dark" onclick="loadMore()">
                                 Load More!
-                            </span>
                         </button>
                     </div>
 
