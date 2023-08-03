@@ -51,13 +51,14 @@ Project Summary:
 
 ![screencapture-localhost-14014-admin-2022-07-27-13_11_13]<https://github.com/sowndv02/AssignmentPRJ301/blob/cf9029c38169ffee846020b6ed94b625086a78d2/img/Web%20capture_3-8-2023_3428_localhost.jpeg>
 ![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]<https://github.com/sowndv02/AssignmentPRJ301/blob/08503d5a7800a61c1c1931cee55f661307a938f3/img/Web%20capture_3-8-2023_131618_localhost.jpeg>
-![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]
+![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]<https://github.com/sowndv02/AssignmentPRJ301/blob/08503d5a7800a61c1c1931cee55f661307a938f3/img/Web%20capture_3-8-2023_34349_localhost.jpeg>
 
 - Manage suppliers and shippers
 
-![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07]
-![screencapture-localhost-14014-Admin-Celebrities-2022-07-27-13_11_57]
-![screencapture-localhost-14014-admin-genres-2022-07-27-13_12_16]
+![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07]<https://github.com/sowndv02/AssignmentPRJ301/blob/29164feeee41a33568365e393a920a08e98831c4/img/Web%20capture_3-8-2023_131834_localhost.jpeg>
+![screencapture-localhost-14014-Admin-Celebrities-2022-07-27-13_11_57]<https://github.com/sowndv02/AssignmentPRJ301/blob/29164feeee41a33568365e393a920a08e98831c4/img/Web%20capture_3-8-2023_13193_localhost.jpeg>
+![screencapture-localhost-14014-admin-genres-2022-07-27-13_12_16]<https://github.com/sowndv02/AssignmentPRJ301/blob/29164feeee41a33568365e393a920a08e98831c4/img/Web%20capture_3-8-2023_131925_localhost.jpeg>
+![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07]<https://github.com/sowndv02/AssignmentPRJ301/blob/29164feeee41a33568365e393a920a08e98831c4/img/Web%20capture_3-8-2023_131948_localhost.jpeg>
 
 - Manage users account
 
