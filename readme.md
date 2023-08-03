@@ -29,7 +29,6 @@ Project Summary:
 
 ![Screenshot 2022-07-27 130919] <https://github.com/sowndv02/AssignmentPRJ301/blob/cf9029c38169ffee846020b6ed94b625086a78d2/img/Web%20capture_3-8-2023_131311_sandbox.vnpayment.vn.jpeg>
 
-
 - Next is about the user part: can edit information, photo
 
 ![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]<https://github.com/sowndv02/AssignmentPRJ301/blob/a063d7251361bc42eefb73d125b215478c960d8a/img/Web%20capture_3-8-2023_33229_localhost.jpeg>
@@ -67,9 +66,7 @@ Project Summary:
 
 - Manage orders (change status order)
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]
-
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]<https://github.com/sowndv02/AssignmentPRJ301/blob/4ba65211fb0fb312c8ff9addc08e71cd6c5e37bb/img/Web%20capture_3-8-2023_132440_localhost.jpeg>
 
 - Respond to user feedback
 
@@ -78,9 +75,7 @@ Project Summary:
 
 - Manage user reviews about products (hide/show) reviews
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]
-
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]<https://github.com/sowndv02/AssignmentPRJ301/blob/4ba65211fb0fb312c8ff9addc08e71cd6c5e37bb/img/Web%20capture_3-8-2023_132422_localhost.jpeg>
 
 ## Authors
 
