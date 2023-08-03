@@ -5,7 +5,7 @@ Project Summary:
 
 - Is a web application written in Java
 - Features: Users can search product, view detail product, rate, comment, add to cart and checkout
-- Technology used: JSP, Servlet, SQL Server, AJAX, GITHUB, HTML, CSS, BOOTSTRAP, VNPay Sandbox
+- Technology used: JSP, Servlet, SQL Server, AJAX, GITHUB, HTML, CSS, BOOTSTRAP, VNPay Sandbox. Chart.js, JQUERY, Javascript
 
 ## Screen details about this project
 
