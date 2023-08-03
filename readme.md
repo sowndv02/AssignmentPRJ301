@@ -45,11 +45,12 @@ Project Summary:
 
 - Next is the admin page that will display the number of orders by month, total users, total revenue, total orders, total suppliers, total products, total shippers, total products sold, and total feedback from customers. And pending orders (new orders). New customers and top 5 customers with the largest usage amount
 
-![screencapture-localhost-14014-Admin-Dashboard-2022-07-27-13_12_50]
+![screencapture-localhost-14014-Admin-Dashboard-2022-07-27-13_12_50]<https://github.com/sowndv02/AssignmentPRJ301/blob/cf9029c38169ffee846020b6ed94b625086a78d2/img/Web%20capture_3-8-2023_33338_localhost.jpeg>
 
 - Admin can see the product list, add, edit, hide products
 
-![screencapture-localhost-14014-admin-2022-07-27-13_11_13]
+![screencapture-localhost-14014-admin-2022-07-27-13_11_13]<https://github.com/sowndv02/AssignmentPRJ301/blob/cf9029c38169ffee846020b6ed94b625086a78d2/img/Web%20capture_3-8-2023_3428_localhost.jpeg>
+![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]<https://github.com/sowndv02/AssignmentPRJ301/blob/08503d5a7800a61c1c1931cee55f661307a938f3/img/Web%20capture_3-8-2023_131618_localhost.jpeg>
 ![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]
 
 - Manage suppliers and shippers
