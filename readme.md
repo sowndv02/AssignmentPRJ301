@@ -21,7 +21,7 @@ Project Summary:
 
 ![screencapture-localhost-14014-Celebrity-List-2022-07-27-13_07_22](https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_32720_localhost.jpeg)
 
--Clicking on any product will take you to the detail page of that product. Users can add to the cart the product user want to buy. Users when registered to the system can checkout with products in the cart, and view information about products, such as suppliers, product reviews, and a list of products related to that genre.
+- Clicking on any product will take you to the detail page of that product. Users can add to the cart the product user want to buy. Users when registered to the system can checkout with products in the cart, and view information about products, such as suppliers, product reviews, and a list of products related to that genre.
 
 ![screencapture-localhost-14014-Movie-Details-299536-2022-07-27-13_08_07](https://github.com/sowndv02/AssignmentPRJ301/blob/c989c1de9d12174377dd9cfa38d2d6594142a493/img/Web%20capture_3-8-2023_122031_localhost.jpeg)
 
@@ -39,6 +39,11 @@ Project Summary:
 
 ![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10](https://github.com/sowndv02/AssignmentPRJ301/blob/504eb76edb0c1b8ebf728f94eee747631b935a33/img/Web%20capture_3-8-2023_13441_localhost.jpeg)
 
+- Next is user can forgot password. User can submit a request for a new password. The system will send an OTP to their email
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
+
+- Next, users who do not have an account can register a new account.
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]
 
 - Next is the admin page that will display the number of orders by month, total users, total revenue, total orders, total suppliers, total products, total shippers, total products sold, and total feedback from customers. And pending orders (new orders). New customers and top 5 customers with the largest usage amount
 
@@ -57,7 +62,7 @@ Project Summary:
 ![screencapture-localhost-14014-admin-genres-2022-07-27-13_12_16](https://github.com/sowndv02/AssignmentPRJ301/blob/29164feeee41a33568365e393a920a08e98831c4/img/Web%20capture_3-8-2023_131925_localhost.jpeg)
 ![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07](https://github.com/sowndv02/AssignmentPRJ301/blob/29164feeee41a33568365e393a920a08e98831c4/img/Web%20capture_3-8-2023_131948_localhost.jpeg)
 
-- Manage users account
+- Manage users account. If the account is unlocked or locked, a notification will be sent to the user's email
 
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_34219_localhost.jpeg)
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25](https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_132147_localhost.jpeg)
@@ -66,14 +71,17 @@ Project Summary:
 
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/4ba65211fb0fb312c8ff9addc08e71cd6c5e37bb/img/Web%20capture_3-8-2023_132440_localhost.jpeg)
 
-- Respond to user feedback
+- Respond to user feedback. A notification will be sent to the user's email if the response is processed
 
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_34238_localhost.jpeg)
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25](https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_34252_localhost.jpeg)
 
-- Manage user reviews about products (hide/show) reviews
+- Manage user reviews about products (hide/show) reviews. A notification will be sent to the user's email if the user's review is hidden or violated
 
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/4ba65211fb0fb312c8ff9addc08e71cd6c5e37bb/img/Web%20capture_3-8-2023_132422_localhost.jpeg)
+
+- Admin can forgot password. Admin can submit a request for a new password. The system will send an OTP to their email
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
 
 ## Authors
 
