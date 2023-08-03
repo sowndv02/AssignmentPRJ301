@@ -71,9 +71,12 @@ Project Summary:
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_34219_localhost.jpeg)
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25](https://github.com/sowndv02/AssignmentPRJ301/blob/4648b1f62f353571796e4d3f33ee5b64e5dc9a5e/img/Web%20capture_3-8-2023_132147_localhost.jpeg)
 
-- Manage orders (change status order)
+- Manage orders (change status order), View order detail
 
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/4ba65211fb0fb312c8ff9addc08e71cd6c5e37bb/img/Web%20capture_3-8-2023_132440_localhost.jpeg)
+
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/AssignmentPRJ301/blob/d796a422e9235c97e63526e62306730e1931ae80/img/Web%20capture_3-8-2023_21179_localhost.jpeg)
+
 
 - Respond to user feedback. A notification will be sent to the user's email if the response is processed
 
