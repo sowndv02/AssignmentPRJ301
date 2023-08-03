@@ -41,7 +41,7 @@ Project Summary:
 
 - Next is user can send feedback to admin. The system will send an notification to email.
 
-![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10]()
+![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10](https://github.com/sowndv02/AssignmentPRJ301/blob/bb8f763cf99a4c6ece64042d546bbc1ad7903b50/img/Web%20capture_3-8-2023_201514_localhost.jpeg)
 
 - Next is user can forgot password. User can submit a request for a new password. The system will send an OTP to their email
 ![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10](https://github.com/sowndv02/AssignmentPRJ301/blob/2d37df3bc4f003aa0e3d9552a1d66cfbe5b0f19d/img/Web%20capture_3-8-2023_15731_localhost.jpeg)
